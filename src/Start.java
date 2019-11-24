@@ -24,7 +24,7 @@ public class Start {
     }
 
     public void showStart() {
-        System.out.println("Вам доступны следующие операции с римскими и арабскими и числами 1 - 10 :\n a + b, a - b, a * b, a/b\n\ninput:\n");
+        System.out.println("Вам доступны следующие операции с римскими и арабскими числами 1 - 10 :\n a + b, a - b, a * b, a/b\n\ninput:\n");
     }
 
     public String getSourceString() {
